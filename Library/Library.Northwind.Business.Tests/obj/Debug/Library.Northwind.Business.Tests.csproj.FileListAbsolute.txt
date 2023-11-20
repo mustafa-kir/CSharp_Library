@@ -1,0 +1,2 @@
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.Business.Tests\obj\Debug\Library.Northwind.Business.Tests.csproj.AssemblyReference.cache
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.Business.Tests\obj\Debug\Library.Northwind.Business.Tests.csproj.CoreCompileInputs.cache

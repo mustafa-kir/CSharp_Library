@@ -1,0 +1,14 @@
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\bin\Debug\Library.Northwind.DataAccess.Tests.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\bin\Debug\Library.Northwind.DataAccess.Tests.pdb
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\obj\Debug\Library.Northwind.DataAccess.Tests.csproj.AssemblyReference.cache
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\obj\Debug\Library.Northwind.DataAccess.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\obj\Debug\Library.Northwind.DataAccess.Tests.csproj.CopyComplete
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\obj\Debug\Library.Northwind.DataAccess.Tests.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\Kütüphane\Library\Library.Northwind.DataAccess.Tests\obj\Debug\Library.Northwind.DataAccess.Tests.pdb

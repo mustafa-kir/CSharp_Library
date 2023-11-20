@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title> Title</title>
+</head>
+<body>
+    <div>
+        @foreach (var book in Model.Books)
+        {
+            @book.BookName
+            <br />
+
+        }
+    </div>
+</body>
+</html>
+
